@@ -38,7 +38,7 @@ You can find the Postman Collection and OpenAPI (YAML) file in the root director
 
 **Postman Collection:** issm.ai.postman_collection.json
 
-**OpenAPI Specification:** ISSM_Label_Checkout_API.yaml
+ 
 
 **Development Tools**
 **TypeScript**: For type-safe JavaScript development.
