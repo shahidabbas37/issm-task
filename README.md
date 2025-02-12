@@ -15,7 +15,7 @@ Unit Tests: Includes comprehensive tests to ensure the API behaves as expected.
 1. Clone the Repository
 Clone the repository to your local machine:
 git clone <https://github.com/shahidabbas37/issm-task.git>
-cd <issm-task>
+cd issm-task
 
 2. Install Dependencies
 Install all required dependencies using npm:
