@@ -14,8 +14,8 @@ Unit Tests: Includes comprehensive tests to ensure the API behaves as expected.
 **Setup**
 1. Clone the Repository
 Clone the repository to your local machine:
-git clone <repo-url>
-cd <repo-directory>
+git clone <https://github.com/shahidabbas37/issm-task.git>
+cd <issm-task>
 
 2. Install Dependencies
 Install all required dependencies using npm:
@@ -48,4 +48,4 @@ You can find the Postman Collection and OpenAPI (YAML) file in the root director
 **Postman**: For API testing and documentation.
 
 **Contributing**
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvement
